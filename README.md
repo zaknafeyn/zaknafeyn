@@ -70,6 +70,11 @@ Find me in [LinkedIn](https://www.linkedin.com/in/valentineradchuk/) or [Faceboo
 <a href="https://code.visualstudio.com/" target="_blank">
   <img align="left" alt="Visual Studio" width="48px" src="images/visual-studio-144.png" />
 </a>
+<br />
+<br />
+<hr />
 
+### Profile views counter
 
-<!-- ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp; -->
+[![Valentyn Radchuk profile views](https://u8views.com/api/v1/github/profiles/1470686/views/day-week-month-total-count.svg)](https://u8views.com/github/zaknafeyn)
+<!-- ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=zaknafeyn&show_icons=true&hide_border=true)&nbsp;&nbsp; -->
