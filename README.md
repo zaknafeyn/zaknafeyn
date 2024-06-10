@@ -7,8 +7,9 @@
 🎾 In my free time, I'm traveling around the world (already visited 54 countries), playing ultimate frisbee and tennis.  
 🇺🇦 I support Ukraine in the fight against russian aggression.  
 
-Find me in [LinkedIn](https://www.linkedin.com/in/valentineradchuk/) or [Facebook](https://www.facebook.com/valik.radchuk)
+Find me in [LinkedIn](https://www.linkedin.com/in/valentineradchuk/), [Facebook](https://www.facebook.com/valik.radchuk) or [Leetcode](https://leetcode.com/u/zaknafeyn/) 
 
+[![LeetCode user zaknafeyn](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fzaknafeyn&logo=leetcode&logoColor=yellow)](https://leetcode.com/zaknafeyn/)
 ### My Tech Stack
 
 <a href="https://www.w3.org/html/" target="_blank">
