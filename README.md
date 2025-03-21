@@ -73,7 +73,18 @@ Find me in [LinkedIn](https://www.linkedin.com/in/valentineradchuk/), [Facebook]
 </a>
 <br />
 <br />
-<hr />
+
+### Github stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaknafeyn&show_icons=true&locale=en&layout=compact&hide=php" alt="zaknafeyn" width="350"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaknafeyn&show_icons=true&locale=en&layout=compact" alt="zaknafeyn" width="460"/>
+</p>
+
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=zaknafeyn&exclude_days=Sun%2CSat&card_width=500" alt="zaknafeyn"/>
+</p>
+<br/>
 
 ### Profile views counter
 
